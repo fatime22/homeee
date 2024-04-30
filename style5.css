@@ -1,0 +1,24 @@
+
+.border{
+    width: 45%;
+    height: 200px;
+    background-color: aquamarine;
+    margin-left: 150px;
+    padding-top: 100px;
+}
+
+
+#ban1,#ban2,#ban3,#ban4{
+    width: 80px;
+    height: 50px;
+    background-color: magenta;
+    margin-left: 40px;
+}
+
+
+#tan{
+    width: 100px;
+    height: 60px;
+    background-color: magenta;
+    margin: 40px 290px;
+}

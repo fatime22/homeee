@@ -1,0 +1,9 @@
+#ran{
+    display: grid;
+    gap: 20px;
+}
+
+#ran1,#ran2,#ran3,#ran4,#ran5{
+    width: 30%;
+    height: 50px;
+}
